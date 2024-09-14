@@ -57,16 +57,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/guilherme-possebon-4652a625a/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-possebon-4652a625a/" target="_blank" style="color: transparent;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:gpossebon67@gmail.com" target="_blank">
+  <a href="mailto:gpossebon67@gmail.com" target="_blank" style="color: transparent;">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/guilhermnhh/" target="_blank">
+  <a href="https://www.instagram.com/guilhermnhh/" target="_blank" style="color: transparent;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/440645357937098773" target="_blank">
+  <a href="https://discord.com/users/440645357937098773" target="_blank" style="color: transparent;">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
   </a>
 </div>
